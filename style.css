@@ -1,0 +1,113 @@
+body {
+    margin-top: 8.7vh;
+}
+
+nav {
+    font-family: Lato, Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+    position: fixed;
+    top: 0;
+    z-index: 2;
+}
+
+h4 {
+    padding: 7% 9% 3% 9%;
+    color: #616161;
+}
+
+h6 {
+    color: #616161;
+    padding: 0 5.3% 5% 5.3%;
+}
+
+#img1 {
+    position: absolute;
+    z-index: -1;
+    top: 8.4vh;
+    right: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url("img/1.png") center no-repeat;
+    background-size: cover;
+}
+
+.g1 {
+    background: #fef9ef;
+}
+
+.g2 {
+    background: #eef4f4;
+}
+.g3 {
+    background: #fcf2f1;
+}
+.g4 {
+    background: #fefdea;
+}
+
+.g5 {
+    background: #f2fcf5;
+}
+
+.fa {
+    font-size: 310%;
+    color: #ffd797;
+}
+
+.item {
+    background: rgba(51, 51, 51, 0.55);
+    padding: 7%;
+    box-sizing: border-box;
+}
+
+.item p {
+    height: 25vh;
+}
+
+.item a {
+    width: 90%;
+    font-weight: 600;
+}
+
+.item2 {
+    height: 60vh;
+    margin: 1rem;
+    padding: 2rem;
+}
+
+.item2 img {
+    width: 40%;
+}
+
+
+.btn1 a,
+.btn2 {
+    margin: 1rem 1rem 4rem 1rem;
+    width: 90%;
+    font-weight: 600;
+}
+
+.item3 {
+    padding: 3rem;
+}
+
+.item3 p{
+    font-size: 112%;
+    white-space: pre-line;
+}
+
+.item3 a {
+    margin: 2rem 0 0 10rem;
+}
+
+.fab {
+    font-size: 310%;
+}
+
+.item4 {
+    padding: 3rem;
+    font-weight: 900;
+}
+
