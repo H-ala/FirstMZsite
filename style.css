@@ -1,5 +1,6 @@
 body {
     margin-top: 8.7vh;
+    overflow-x: hidden;
 }
 
 nav {
